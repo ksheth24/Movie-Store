@@ -2,14 +2,17 @@
 Movie Store is a simple Django-based online movie storefront and review platform. It provides movie browsing and detail pages, user accounts (signup/login), review creation and editing, a shopping cart with a purchase flow, and an admin interface for managing content.
 
 ## Features
-- Browse movies and view details
+1) **Browse movies and view details**
 ![Logo](images/browse.png)
-- Create and edit reviews (authenticated users)
-- User accounts with signup/login
+2) **Create and edit reviews (authenticated users)**
+![Logo](images/review.png)
+3) **User accounts with signup/login**
 ![Logo](images/login.png)
 ![Logo](images/signup.png)
-- Shopping cart and purchase page![alt text](image.png)
-- Admin dashboard for content management
+4) **Shopping cart and purchase page**
+![Logo](images/shopping.png)
+5) **Admin dashboard for content management**
+![Logo](images/admin.png)
 
 ## Tech stack
 - Python 3.8+
